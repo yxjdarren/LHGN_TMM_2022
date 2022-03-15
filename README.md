@@ -5,7 +5,7 @@ PyTorch implementation of the paper "[Latent Heterogeneous Graph Network for Inc
 Please see [INSTALL.md](./INSTALL.md)
 
 # Get started
-For single gpu training, run
+For single gpu run
 ```Shell
 python main.py --data cub --repeat 10 --epochs 200 --missing_rate 0.5 --lr 0.01 --gpu 0
 ```
