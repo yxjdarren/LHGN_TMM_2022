@@ -1,8 +1,8 @@
 # Install
 1. Create a conda virtual environment and activate it
 
-Python 3.7.2 (default, Dec 29 2018, 06:19:36) 
-[GCC 7.3.0] :: Anaconda, Inc. on linux
+  Python 3.7.2 (default, Dec 29 2018, 06:19:36) 
+  [GCC 7.3.0] :: Anaconda, Inc. on linux
 
 2. Install dependencies
 # packages in environment at /root/anaconda3:
