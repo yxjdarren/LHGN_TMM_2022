@@ -1,2 +1,1 @@
-# LHGN_TMM_2022
-LHGN_TMM_2022
+# Latent Heterogeneous Graph Network for Incomplete Multi-view Learning
