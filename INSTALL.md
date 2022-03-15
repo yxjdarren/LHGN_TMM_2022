@@ -5,9 +5,8 @@
   [GCC 7.3.0] :: Anaconda, Inc. on linux
 
 2. Install dependencies
-# packages in environment at /root/anaconda3:
-#
-# Name                    Version                   Build  Channel
+
+**Name                    Version                   Build  Channel**
 <p>_ipyw_jlab_nb_ext_conf    0.1.0                    py37_0    https://repo.anaconda.com/pkgs/main   </p>   <p>
 _tflow_select             2.3.0                       mkl    defaults   </p>   <p>
 absl-py                   0.11.0             pyhd3eb1b0_1    defaults   </p>   <p>
